@@ -8,18 +8,56 @@
 #  education3:
 #  education4:
 
-- name: Ilse Kuijf 
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Arun Kumar Jindal
+  photo: arun.jpg
+  info: Ph.D. Scholar (Part-time)
+  email: 
+  number_educ: 1
+  education1: Masters, 
 
-- name: Tessa Van der Ent
+- name: Deepkar Vishwakarma 
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+  info: Ph.D. Scholar (Part-time)
+  email: 
+  number_educ: 1
+  education1: Masters,
 
+- name: Subrat Swain
+  photo: subrat.jpg
+  info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
+  email: 
+  number_educ: 1
+  education1: Bachelors,  
+
+- name: Isha Pali 
+  photo: isha.jpg
+  info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
+  email: 
+  number_educ: 2
+  education1: Masters, DSPM IIIT-NR (2022)
+  education2: Bachelors, NIIT University Neemrana (2019)
+
+- name: Sonali Rout  
+  photo: sonali.jpg
+  info: Ph.D. Scholar
+  email: 
+  number_educ: 2
+  education1: Masters, NIT Rourkela
+  education2: Bachelors,
+
+- name: Priyansh Singh  
+  photo: priyansh.jpg
+  info: Ph.D. Scholar
+  email: 
+  number_educ: 2
+  education1: Masters, 
+  education2: Bachelors,
+
+- name: Mehreen Jabeen  
+  photo: mehreen.jpg
+  info: Ph.D. Scholar (Co-supervisor - Prof. Rijurekha Sen)
+  email: 
+  number_educ: 2
+  education1: Masters,
+  education2: Bachelors,
 

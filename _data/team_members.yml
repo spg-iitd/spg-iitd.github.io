@@ -4,93 +4,93 @@
   email: viresh[at]cse.iitd.ac.in
   number_educ: 3
   education1: Postdoctoral Research Associate in the Department of Computer Science </a> at Purdue University under the supervision of <a href="https://www.cs.purdue.edu/homes/dxu/"> Prof. Dongyan Xu </a> 
-  education2: Ph.D. Computer Engineering, 2016 Virginia Tech with </a> Prof. Jerry Park <a href="https://ece.vt.edu/people/profile/park.html"></a>
+  education2: Ph.D. Computer Engineering, 2016 Virginia Tech with <a href="https://ece.vt.edu/people/profile/park.html">Prof. Jerry Park</a>
   education3: B.Tech. in Electrical Engineering at IIT Delhi, 2009
   #education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
   #education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
-- name: Arun Jindal
-  photo: Arun.jpg
-  info: Ph.D., started Oct 2019
-  email: 
-  number_educ: 1
-  #education1: PhD with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  #education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education1: Masters, East China University of Science and Technology
+# - name: Arun Jindal
+#   photo: Arun.jpg
+#   info: Ph.D., started Oct 2019
+#   email: 
+#   number_educ: 1
+#   #education1: PhD with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
+#   #education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
+#   education1: Masters, East China University of Science and Technology
 
-- name: Deepak Vishwakarma
-  photo: Deepak.jpg
-  info: Ph.D., started Oct 2020
-  email: 
-  number_educ: 1
-  #education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education1: Masters, 
+# - name: Deepak Vishwakarma
+#   photo: Deepak.jpg
+#   info: Ph.D., started Oct 2020
+#   email: 
+#   number_educ: 1
+#   #education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
+#   education1: Masters, 
 
-- name: Subrat Swain
-  photo: Subrat.jpeg
-  info: Ph.D., started August 2021
-  email: 
-  number_educ: 1
-  #education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education1: Bachelors, University of Tokyo
+# - name: Subrat Swain
+#   photo: Subrat.jpeg
+#   info: Ph.D., started August 2021
+#   email: 
+#   number_educ: 1
+#   #education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
+#   education1: Bachelors, University of Tokyo
 
-- name: Isha Pali
-  photo: isha.jpg
-  info: PhD Student, started August 2022
-  email: qiz228047@iitd.ac.in
-  number_educ: 2
-  education1: Masters, DSPM IIIT-NR
-  education2: Bachelors, NIIT University Neemrana
-  #education3:
+# - name: Isha Pali
+#   photo: isha.jpg
+#   info: PhD Student, started August 2022
+#   email: qiz228047@iitd.ac.in
+#   number_educ: 2
+#   education1: Masters, DSPM IIIT-NR
+#   education2: Bachelors, NIIT University Neemrana
+#   #education3:
 
-- name: Sonali Rout 
-  photo: sona.png
-  info: PhD Student, started August 2022
-  email: b
-  number_educ: 2
-  education1: Masters, NIT Rourkela  
-  education2: Bachelors,
-  # education3:
-  # education4:
+# - name: Sonali Rout 
+#   photo: sona.png
+#   info: PhD Student, started August 2022
+#   email: b
+#   number_educ: 2
+#   education1: Masters, NIT Rourkela  
+#   education2: Bachelors,
+#   # education3:
+#   # education4:
 
-- name: Mehreen Zabeen
-  photo: mehreen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
+# - name: Mehreen Zabeen
+#   photo: mehreen.png
+#   info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+#   email: b
+#   number_educ: 2
+#   education1: Master Leiden University
+#   education2: BSc, University of the Basque Country
+#   education3:
+#   education4:
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+# - name: Kees van Oosten
+#   photo: DSC_1032.JPG
+#   info: FFine mechanical engineer (also associated with the FMD)
+#   email: Oosten@fmd.physics.leidenuniv.nl
+#   number_educ: 2
+#   education1: Leidse instrumentmakers School
+#   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
 
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
+# - name: Hugo van Bohemen
+#   photo: hugo.jpg
+#   info: Fine mechanical engineer (also associated with the FMD)
+#   email: h.s.m.van.bohemen@physics.leidenuniv.nl
+#   number_educ: 1
+#   education1: Leidse Instrumentmakers School
+#   education2:
 
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University
+# - name: Ilse Kuijf
+#   photo: ilse.jpeg
+#   info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
+#   email: Bastiaans@Physics.LeidenUniv.nl
+#   number_educ: 1
+#   education1: Master Leiden University
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#   email: milan.allan@gmail.com
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
