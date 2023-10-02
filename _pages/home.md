@@ -1,7 +1,8 @@
 ---
-title: "Allan Lab - Home"
+title: "SPRG - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Security and Privacy Research Group at IIT Delhi"
+#excerpt: "Security and Privacy Research Group at Leiden University &rarr; LMU."
 sitemap: false
 permalink: /
 ---
