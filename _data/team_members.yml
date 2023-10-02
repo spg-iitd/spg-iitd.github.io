@@ -2,59 +2,59 @@
   photo: viresh sir.jpg
   info: Assistant professor, started July 2020
   email: viresh[at]cse.iitd.ac.in
-  number_educ: 5
-  education1: Postdoctoral Research Associate in the Department of Computer Science at Purdue University under the supervision of Prof. Dongyan Xu <a href="https://www.cs.purdue.edu/homes/dxu/">
-  education2: Ph.D. Computer Engineering, 2016 Virginia Tech with <a href="https://ece.vt.edu/people/profile/park.html"> Prof. Jerry Park</a>
+  number_educ: 3
+  education1: Postdoctoral Research Associate in the Department of Computer Science </a> at Purdue University under the supervision of <a href="https://www.cs.purdue.edu/homes/dxu/"> Prof. Dongyan Xu </a> 
+  education2: Ph.D. Computer Engineering, 2016 Virginia Tech with </a> Prof. Jerry Park <a href="https://ece.vt.edu/people/profile/park.html"></a>
   education3: B.Tech. in Electrical Engineering at IIT Delhi, 2009
   #education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
   #education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
 
-- name: 
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+- name: Arun Jindal
+  photo: Arun.jpg
+  info: Ph.D., started Oct 2019
+  email: 
+  number_educ: 1
+  #education1: PhD with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
+  #education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
+  education1: Masters, East China University of Science and Technology
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: Deepak Vishwakarma
+  photo: Deepak.jpg
+  info: Ph.D., started Oct 2020
+  email: 
+  number_educ: 1
+  #education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
+  education1: Masters, 
+
+- name: Subrat Swain
+  photo: Subrat.jpeg
+  info: Ph.D., started August 2021
+  email: 
+  number_educ: 1
+  #education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
+  education1: Bachelors, University of Tokyo
+
+- name: Isha Pali
+  photo: isha.jpg
+  info: PhD Student, started August 2022
+  email: qiz228047@iitd.ac.in
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: Masters, DSPM IIIT-NR
+  education2: Bachelors, NIIT University Neemrana
+  #education3:
 
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
-  education3:
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
+- name: Sonali Rout 
+  photo: sona.png
+  info: PhD Student, started August 2022
   email: b
   number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
+  education1: Masters, NIT Rourkela  
+  education2: Bachelors,
+  # education3:
+  # education4:
 
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
+- name: Mehreen Zabeen
+  photo: mehreen.png
   info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
   email: b
   number_educ: 2
