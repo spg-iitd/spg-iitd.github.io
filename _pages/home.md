@@ -1,7 +1,7 @@
 ---
 title: "SPRG - Home"
 layout: homelay
-excerpt: "Security and Privacy Research Group at IIT Delhi"
+excerpt: "Security and Privacy Research Group at Kripalani lab IIT Delhi"
 #excerpt: "Security and Privacy Research Group at Leiden University &rarr; LMU."
 sitemap: false
 permalink: /
