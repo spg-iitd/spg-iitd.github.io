@@ -69,11 +69,11 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
  We have collaborations with International University - The University of Queensland.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uqidar.jpg" style="width: 210px">
-</figure>
+</figure> -->
 
 
 <!-- 
