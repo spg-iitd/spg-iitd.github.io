@@ -10,54 +10,63 @@
 
 - name: Arun Kumar Jindal
   photo: arun.jpg
-  info: Ph.D. Scholar (Part-time)
-  email: 
-  number_educ: 1
-  education1: Masters, 
+  info: PhD Scholar, SIT-IIT Delhi and Scientist, TCS Research
+  email: arunkumarjindal@gmail.com
+  number_educ: 2
+  education1: Masters, IIIT-Delhi 
+  education2: Bachelor's, Uttar Pradesh Technical University, Lucknow
 
-- name: Deepkar Vishwakarma 
-  photo: rock.jpg
-  info: Ph.D. Scholar (Part-time)
-  email: 
-  number_educ: 1
-  education1: Masters,
+# - name: Deepkar Vishwakarma 
+#   photo: rock.jpg
+#   info: Ph.D. Scholar (Part-time)
+#   email: 
+#   number_educ: 1
+#   education1: Masters,
 
-- name: Subrat Swain
-  photo: subrat.jpg
+- name: Subrat Kumar Swain
+  photo: subrat.jpeg
   info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
-  email: 
+  email: mailofswainsubrat@gmail.com
   number_educ: 1
-  education1: Bachelors,  
+  education1: Bachelors, Veer Surendra Sai Institute of Technology, Odisha 
 
 - name: Isha Pali 
   photo: isha.jpg
   info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
-  email: 
+  email: qi228047@iitd.ac.in, i.pali@uq.edu.au
   number_educ: 2
   education1: Masters, DSPM IIIT-NR (2022)
   education2: Bachelors, NIIT University Neemrana (2019)
 
 - name: Sonali Rout  
-  photo: sonali.jpg
+  photo: sonali.jpeg
   info: Ph.D. Scholar
-  email: 
+  email: sonalirout105@gmail.com
   number_educ: 2
-  education1: Masters, NIT Rourkela
-  education2: Bachelors,
+  education1: Masters, National Institute of Technology, Rourkela 
+  education2: Bachelors, Indira Gandhi Institute of Technology, Sarang, Odisha
 
 - name: Priyansh Singh  
   photo: priyansh.jpg
   info: Ph.D. Scholar
-  email: 
+  email: priyansh.singh.delhi@gmail.com
   number_educ: 2
-  education1: Masters, 
-  education2: Bachelors,
+  education1: Masters, Atal Bihari Vajpayee IIITM, Gwalior
+  education2: Bachelors, Guru Gobind Singh Indraprastha University, Delhi
 
-- name: Mehreen Jabeen  
-  photo: mehreen.jpg
-  info: Ph.D. Scholar (Co-supervisor - Prof. Rijurekha Sen)
-  email: 
+- name: Neha 
+  photo: neha.jpg
+  info: Ph.D. Scholar
+  email: nehah000@gmail.com
   number_educ: 2
-  education1: Masters,
-  education2: Bachelors,
+  education1: Masters, IIT Delhi
+  education2: Bachelors, MDU Rohtak
+
+# - name: Mehreen Jabeen  
+#   photo: mehreen.jpg
+#   info: Ph.D. Scholar (Co-supervisor - Prof. Rijurekha Sen)
+#   email: 
+#   number_educ: 2
+#   education1: Masters,
+#   education2: Bachelors,
 
