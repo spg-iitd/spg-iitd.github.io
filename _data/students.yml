@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Arun Kumar Jindal
-  photo: arun.jpg
+  photo: ../images/teampic/arun.jpg
   info: PhD Scholar, SIT-IIT Delhi and Scientist, TCS Research
   email: arunkumarjindal@gmail.com
   number_educ: 2
