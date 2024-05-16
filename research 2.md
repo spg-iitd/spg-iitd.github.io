@@ -1,7 +1,7 @@
 ---
-title: "SPRG - Research"
+title: "SPRING - Research"
 layout: textlay
-excerpt: "SPRG -- Research"
+excerpt: "SPRING -- Research"
 sitemap: false
 permalink: /research/
 ---
