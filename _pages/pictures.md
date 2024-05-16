@@ -1,7 +1,7 @@
 <!-- ---
-title: "SPRG - Pictures"
+title: "SPRING - Pictures"
 layout: piclay
-excerpt: "SPRG -- Pictures"
+excerpt: "SPRING -- Pictures"
 permalink: /pictures/
 ---
 

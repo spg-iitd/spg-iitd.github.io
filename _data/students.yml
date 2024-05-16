@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Arun Kumar Jindal
-  photo: arun.jpg
+  photo: ../images/teampic/arun.jpg
   info: PhD Scholar, SIT-IIT Delhi and Scientist, TCS Research
   email: arunkumarjindal@gmail.com
   number_educ: 2
@@ -24,14 +24,14 @@
 #   education1: Masters,
 
 - name: Subrat Kumar Swain
-  photo: subrat.jpeg
+  photo: ../images/teampic/subrat.jpeg
   info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
   email: mailofswainsubrat@gmail.com
   number_educ: 1
   education1: Bachelors, Veer Surendra Sai Institute of Technology, Odisha 
 
 - name: Isha Pali 
-  photo: isha.jpg
+  photo: ../images/teampic/isha.jpg
   info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
   email: qi228047@iitd.ac.in, i.pali@uq.edu.au
   number_educ: 2
@@ -39,7 +39,7 @@
   education2: Bachelors, NIIT University Neemrana (2019)
 
 - name: Sonali Rout  
-  photo: sonali.jpeg
+  photo: ../images/teampic/sonali.jpeg
   info: Ph.D. Scholar
   email: sonalirout105@gmail.com
   number_educ: 2
@@ -47,7 +47,7 @@
   education2: Bachelors, Indira Gandhi Institute of Technology, Sarang, Odisha
 
 - name: Priyansh Singh  
-  photo: priyansh.jpg
+  photo: ../images/teampic/priyansh.jpg
   info: Ph.D. Scholar
   email: priyansh.singh.delhi@gmail.com
   number_educ: 2
@@ -55,7 +55,7 @@
   education2: Bachelors, Guru Gobind Singh Indraprastha University, Delhi
 
 - name: Neha 
-  photo: neha.jpg
+  photo: ../images/teampic/neha.jpg
   info: Ph.D. Scholar
   email: nehah000@gmail.com
   number_educ: 2

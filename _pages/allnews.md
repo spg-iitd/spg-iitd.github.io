@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SPRING Lab at Kripalani SIT, IIT Delhi."
 sitemap: false
 permalink: /allnews.html
 ---
