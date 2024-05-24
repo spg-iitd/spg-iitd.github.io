@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Arun Kumar Jindal
-  photo: ../images/teampic/arun.jpg
+  photo: arun.jpg
   info: PhD Scholar, SIT-IIT Delhi and Scientist, TCS Research
   email: arunkumarjindal@gmail.com
   number_educ: 2
@@ -24,7 +24,7 @@
 #   education1: Masters,
 
 - name: Subrat Kumar Swain
-  photo: ../images/teampic/subrat.jpeg
+  photo: subrat.jpeg
   info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
   email: mailofswainsubrat@gmail.com
   number_educ: 1
