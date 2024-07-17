@@ -69,7 +69,7 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uqidar.jpg" style="width: 500px">
-</figure> -->
+</figure>
 
 
 <!-- 
