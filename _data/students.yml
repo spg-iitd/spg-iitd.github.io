@@ -2,6 +2,7 @@
 #  photo: rock.jpg
 #  info:
 #  email:
+#  website:
 #  number_educ:
 #  education1:
 #  education2:
@@ -10,74 +11,65 @@
 
 - name: Arun Kumar Jindal
   photo: arun.jpg
-  info: Assistant professor, started July 2020
-  email: viresh[at]cse.iitd.ac.in
-  number_educ: 3
-  education1: Postdoctoral Research Associate in the Department of Computer Science </a> at Purdue University under the supervision of <a href="https://www.cs.purdue.edu/homes/dxu/"> Prof. Dongyan Xu </a> 
-  education2: Ph.D. Computer Engineering, 2016 Virginia Tech with <a href="https://ece.vt.edu/people/profile/park.html">Prof. Jerry Park</a>
-  education3: B.Tech. in Electrical Engineering at IIT Delhi, 2009
-  #education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  #education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-# - name: Arun Kumar Jindal
-#   photo: arun.jpg
-#   info: PhD Scholar, SIT-IIT Delhi and Scientist, TCS Research
-#   email: arunkumarjindal@gmail.com
-#   number_educ: 2
-#   education1: Masters, IIIT-Delhi 
-#   education2: Bachelor's, Uttar Pradesh Technical University, Lucknow
-
-# - name: Deepkar Vishwakarma 
-#   photo: rock.jpg
-#   info: Ph.D. Scholar (Part-time)
-#   email: 
-#   number_educ: 1
-#   education1: Masters,
+  info: Part-time PhD Scholar, School of IT, IIT Delhi (Research Scientist, TCS Research)
+  email: arunkumarjindal@gmail.com
+  number_educ: 2
+  education1: Masters, IIIT-Delhi 
+  education2: Bachelors, Uttar Pradesh Technical University, Lucknow
 
 - name: Subrat Kumar Swain
   photo: subrat.jpeg
-  info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
+  info: Joint Ph.D. Scholar, UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
   email: mailofswainsubrat@gmail.com
+  website: https://swainsubrat.github.io/
   number_educ: 1
-  education1: Bachelors, Veer Surendra Sai Institute of Technology, Odisha 
+  education1: Bachelors, Veer Surendra Sai University of Technology (VSSUT) Odisha
 
 - name: Isha Pali 
-  photo: ../images/teampic/isha.jpg
-  info: Ph.D. Scholar (Co-supervisor - Prof. Dan Kim)
+  photo: isha.jpeg
+  info: Joint Ph.D. Scholar, UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
   email: qi228047@iitd.ac.in, i.pali@uq.edu.au
   number_educ: 2
   education1: Masters, DSPM IIIT-NR (2022)
   education2: Bachelors, NIIT University Neemrana (2019)
 
 - name: Sonali Rout  
-  photo: ../images/teampic/sonali.jpeg
-  info: Ph.D. Scholar
+  photo: sonali.jpeg
+  info: Ph.D. Scholar, School of IT, IIT Delhi
   email: sonalirout105@gmail.com
   number_educ: 2
   education1: Masters, National Institute of Technology, Rourkela 
-  education2: Bachelors, Indira Gandhi Institute of Technology, Sarang, Odisha
+  education2: Bachelors, Indira Gandhi Institute of Technology (IGIT), Sarang
 
 - name: Priyansh Singh  
-  photo: ../images/teampic/priyansh.jpg
-  info: Ph.D. Scholar
+  photo: priyansh.jpg
+  info: Ph.D. Scholar, Department of Computer Science and Engineering, IIT Delhi
   email: priyansh.singh.delhi@gmail.com
   number_educ: 2
   education1: Masters, Atal Bihari Vajpayee IIITM, Gwalior
   education2: Bachelors, Guru Gobind Singh Indraprastha University, Delhi
 
 - name: Neha 
-  photo: ../images/teampic/neha.jpg
+  photo: neha.jpg
   info: Ph.D. Scholar
   email: nehah000@gmail.com
   number_educ: 2
   education1: Masters, IIT Delhi
   education2: Bachelors, MDU Rohtak
 
-# - name: Mehreen Jabeen  
-#   photo: mehreen.jpg
-#   info: Ph.D. Scholar (Co-supervisor - Prof. Rijurekha Sen)
-#   email: 
-#   number_educ: 2
-#   education1: Masters,
-#   education2: Bachelors,
+- name: Mehreen Jabeen  
+  photo: mehreen.jpg
+  info: Ph.D. Scholar, Department of Computer Science and Engineering, IIT Delhi (Co-supervisor - Prof. Rijurekha Sen)
+  email: 
+  number_educ: 2
+  education1: Masters,
+  education2: Bachelors,
 
+- name: "This could be you!"
+  photo: rock.jpg
+  info: See <a href="http://www.spring-iitd.github.io/vacancies">openings</a> for more info
+  # email: viresh [at] cse.iitd.ac.in
+  number_educ: 0
+  education1:
+  education2:
+  education3:

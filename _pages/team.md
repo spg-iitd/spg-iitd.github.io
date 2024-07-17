@@ -16,7 +16,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Staff
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.staff %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -26,7 +26,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4> <a href="{{ member.website }}" target="_blank">{{ member.name }}</a> </h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -90,7 +90,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4> <a href="{{ member.website }}" target="_blank">{{ member.name }}</a> </h4>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 

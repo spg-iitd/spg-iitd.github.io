@@ -1,12 +1,21 @@
+- title: "SPAT: Semantic-Preserving Adversarial Transformation for Perceptually Similar Adversarial Examples"
+  image: SPAT.png
+  description: Machine Learning~(ML) models are vulnerable to adversarial machine learning~(AML) attacks, which generate adversarial examples by adding well-crafted perturbations to the benign examples. If the perturbations are added without considering the semantic correctness, the attack can be easily detected. We introduce SPAT, a unified framework that transforms conventional AML attacks into semantic-preserving versions while maintaining a comparable attack success rate.
+  authors: Subrat Kumar Swain, Vireshwar Kumar, Dan Dongseong Kim, Guangdong Bai
+  link:
+    url: https://ebooks.iospress.nl/doi/10.3233/FAIA230525
+    display: European Conference on Artificial Intelligence (ECAI), 2023 **[CORE A]**
+  highlight: 1
+  news1: Checkout [Website!](https://swainsubrat.github.io/)
+
 - title: "Practical Attestation for Edge Devices Running Compute Heavy Machine Learning Applications"
   image: 
   description: Machine Learning (EdgeML) algorithms on edge devices facilitate safety-critical applications like building security management and smart city interventions. However, their wired/wireless connections with the Internet make such platforms vulnerable to attacks compromising the embedded software. In this paper, we present PracAttest, a practical runtime attestation framework for embedded devices running compute-heavy EdgeML applications. Unlike the conventional remote attestation schemes that check the entire software in each attestation event, PracAttest segments the software and randomizes the integrity check of these segments over short random attestation intervals.
   authors: Ismi Abidi, Vireshwar Kumar, Rijurekha Sen
   link:
     url: https://dl.acm.org/doi/10.1145/3485832.3485909
-    display: Annual Computer Security Applications Conference
+    display: Annual Computer Security Applications Conference (ACSAC), 2021 **[CORE A]**
   highlight: 0
-  # news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
 # - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
 #   image: imageaward_edited.png
