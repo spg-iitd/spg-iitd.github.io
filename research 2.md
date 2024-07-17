@@ -14,9 +14,6 @@ Our overarching goal is to explore and understand security issues in different a
 
 Here are some projects that we currently work on:
 
-<!-- **5G Cellular Network Security** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample. -->
-
-
 **Adversarial AI Attacks and Defenses in Intrusion Detection System for IoT** To facilitate applications such as smart home and smart manufacturing, energy-constrained devices are inter-connected through bandwidth-constrained communication protocols to form the internet-of-things (IoT). Due to such constraints, the IoT networks fail to employ conventional security protocols. Hence, on one hand, the IoT devices are vulnerable to illegal device access and inference of sensitive information; on the other hand, their users are prone to spoofing attacks through which an attacker can feed malicious data to the user. One resource-efficient way to secure an IoT network is to deploy comprehensively trained intrusion detection systems (IDS). However, the existing IDS have been shown to be vulnerable against modern artificial intelligence (AI)-assisted attacks that exploit specific vulnerabilities of the IDS.
 
 In this project, we will address this challenge by developing an adversarial AI-driven framework to design a novel IDS which can detect AI-assisted cyber-attacks on IoT networks. This study will require extensive efforts along three research thrusts:
