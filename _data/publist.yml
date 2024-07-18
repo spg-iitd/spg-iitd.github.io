@@ -1,21 +1,32 @@
+- title: "SpotOn: Adversarially Robust Keyword Spotting on Resource-Constrained IoT Platforms"
+  image:
+  description: IoT devices (e.g., voice assistants) that execute real-time speech commands are proliferating fast in our daily lives. In such a device, detecting the correct keyword spoken as a command triggers the supported function, and hence keyword spotting (KWS) using a machine learning (ML) model is the pivotal task in their functioning. However, KWS is vulnerable to adversarial machine learning (AML)-based attacks through which an adversary can craft an adversarial...
+  authors: Mehreen Jabeen, Vireshwar Kumar, Rijurekha Sen
+  venue: ACM Asia Conference on Computer and Communications Security (ASIA CCS), 2024
+  tag: CORE A
+  pdf: https://www.cse.iitd.ernet.in/~viresh/publication/2024-asiaccs-spoton/2024-asiaccs-spoton.pdf
+  project: https://dl.acm.org/doi/10.1145/3634737.3637668#:~:text=Using%20the%20Google%20speech%20command,on%20resource%2Dconstrained%20IoT%20devices.
+  highlight: 1
+
 - title: "SPAT: Semantic-Preserving Adversarial Transformation for Perceptually Similar Adversarial Examples"
   image: SPAT.png
   description: Machine Learning~(ML) models are vulnerable to adversarial machine learning~(AML) attacks, which generate adversarial examples by adding well-crafted perturbations to the benign examples. If the perturbations are added without considering the semantic correctness, the attack can be easily detected. We introduce SPAT, a unified framework that transforms conventional AML attacks into semantic-preserving versions while maintaining a comparable attack success rate.
   authors: Subrat Kumar Swain, Vireshwar Kumar, Dan Dongseong Kim, Guangdong Bai
-  link:
-    url: https://ebooks.iospress.nl/doi/10.3233/FAIA230525
-    display: European Conference on Artificial Intelligence (ECAI), 2023 **[CORE A]**
+  venue: European Conference on Artificial Intelligence (ECAI), 2023
+  tag: CORE A
+  pdf: https://www.cse.iitd.ernet.in/~viresh/publication/2023-ecai-spat/2023-ecai-spat.pdf 
+  project: https://swainsubrat.github.io/spat-project # page to show details of the project or demo.
   highlight: 1
-  news1: Checkout [Website!](https://swainsubrat.github.io/)
 
 - title: "Practical Attestation for Edge Devices Running Compute Heavy Machine Learning Applications"
-  image: 
-  description: Machine Learning (EdgeML) algorithms on edge devices facilitate safety-critical applications like building security management and smart city interventions. However, their wired/wireless connections with the Internet make such platforms vulnerable to attacks compromising the embedded software. In this paper, we present PracAttest, a practical runtime attestation framework for embedded devices running compute-heavy EdgeML applications. Unlike the conventional remote attestation schemes that check the entire software in each attestation event, PracAttest segments the software and randomizes the integrity check of these segments over short random attestation intervals.
+  image:
+  description: Machine Learning (EdgeML) algorithms on edge devices facilitate safety-critical applications like building security management and smart city interventions. However, their wired/wireless connections with the Internet make such platforms vulnerable to attacks compromising the embedded software. In this paper, we present PracAttest, a practical runtime attestation framework for embedded devices running compute-heavy EdgeML applications. Unlike the conventional remote attestation...
   authors: Ismi Abidi, Vireshwar Kumar, Rijurekha Sen
-  link:
-    url: https://dl.acm.org/doi/10.1145/3485832.3485909
-    display: Annual Computer Security Applications Conference (ACSAC), 2021 **[CORE A]**
-  highlight: 0
+  venue: Annual Computer Security Applications Conference (ACSAC), 2021
+  tag: CORE A
+  pdf: https://www.cse.iitd.ernet.in/~viresh/publication/2021-acsac-pracattest/2021-acsac-pracattest.pdf
+  project: https://dl.acm.org/doi/10.1145/3485832.3485909
+  highlight: 1
 
 # - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
 #   image: imageaward_edited.png
