@@ -79,7 +79,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Ph.D. Scholars
-<!-- ## Master and Bachelor Students -->
+<!-- ## PhD Students -->
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -90,34 +90,17 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <div class="team-photo-container"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" />
+  <!-- </div> -->
   <h4> <a href="{{ member.website }}" target="_blank">{{ member.name }}</a> </h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+  
+  <div style="overflow: hidden">
+  <p>Research Area: {{ member.research }}</p>
+   
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

@@ -11,15 +11,17 @@
 
 - name: Arun Kumar Jindal
   photo: arun.jpg
-  info: Part-time PhD Scholar, School of IT, IIT Delhi (Research Scientist, TCS Research)
+  info: School of IT, IIT Delhi (Research Scientist, TCS Research)
   email: arunkumarjindal@gmail.com
+  website: 
+  research: Trustworthy ML for biometric systems
   number_educ: 2
   education1: Masters, IIIT-Delhi 
   education2: Bachelors, Uttar Pradesh Technical University, Lucknow
 
 - name: Subrat Kumar Swain
   photo: subrat.jpeg
-  info: Joint Ph.D. Scholar, UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
+  info: UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
   email: mailofswainsubrat@gmail.com
   website: https://swainsubrat.github.io/
   number_educ: 1
@@ -27,7 +29,7 @@
 
 - name: Isha Pali 
   photo: isha.jpeg
-  info: Joint Ph.D. Scholar, UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
+  info: UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
   email: qi228047@iitd.ac.in, i.pali@uq.edu.au
   number_educ: 2
   education1: Masters, DSPM IIIT-NR (2022)
@@ -35,7 +37,7 @@
 
 - name: Sonali Rout  
   photo: sonali.jpeg
-  info: Ph.D. Scholar, School of IT, IIT Delhi
+  info: School of IT, IIT Delhi
   email: sonalirout105@gmail.com
   number_educ: 2
   education1: Masters, National Institute of Technology, Rourkela 
@@ -43,27 +45,44 @@
 
 - name: Priyansh Singh  
   photo: priyansh.jpg
-  info: Ph.D. Scholar, Department of Computer Science and Engineering, IIT Delhi
-  email: priyansh.singh.delhi@gmail.com
+  info: Department of CSE, IIT Delhi
+  email: cs.priyansh@gmail.com
+  website: priyanshs.me
   number_educ: 2
   education1: Masters, Atal Bihari Vajpayee IIITM, Gwalior
   education2: Bachelors, Guru Gobind Singh Indraprastha University, Delhi
 
-- name: Neha 
-  photo: neha.jpg
-  info: Ph.D. Scholar
+- name: Mehreen Jabeen  
+  photo: mehreen.jpg
+  info: Department of CSE, IIT Delhi (Co-supervisor - Prof. Rijurekha Sen)
+  email: 
+  number_educ: 2
+  education1: Masters,
+  education2: Bachelors,
+
+- name: Narayan Ji Mishra 
+  photo: narayan.jpg
+  info: 
   email: nehah000@gmail.com
   number_educ: 2
   education1: Masters, IIT Delhi
   education2: Bachelors, MDU Rohtak
 
-- name: Mehreen Jabeen  
-  photo: mehreen.jpg
-  info: Ph.D. Scholar, Department of Computer Science and Engineering, IIT Delhi (Co-supervisor - Prof. Rijurekha Sen)
-  email: 
+- name: Neha 
+  photo: neha.jpg
+  info: 
+  email: nehah000@gmail.com
   number_educ: 2
-  education1: Masters,
-  education2: Bachelors,
+  education1: Masters, IIT Delhi
+  education2: Bachelors, MDU Rohtak
+
+- name: Avinash 
+  photo: avinash.jpg
+  info: 
+  email: nehah000@gmail.com
+  number_educ: 2
+  education1: Masters, IIT Delhi
+  education2: Bachelors, MDU Rohtak
 
 - name: "This could be you!"
   photo: rock.jpg

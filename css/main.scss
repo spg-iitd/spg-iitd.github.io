@@ -101,3 +101,11 @@ firstp {
 	height: 400px;
 }
 
+.team-photo {
+	width: 25%; /* Fixed width */
+	height: 120px; /* Fixed height */
+	object-fit: cover; /* Cover the frame, cropping if necessary */
+	float: left; /* Align with the text */
+	margin-right: 15px; /* Space between the image and the text */
+	border-radius: 100%; /* Optional: makes the image round */
+  }
