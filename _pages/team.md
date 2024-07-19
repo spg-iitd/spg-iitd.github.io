@@ -6,15 +6,16 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# People
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** 
- <!-- [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
+<!-- **We are  looking for new PhD students, Postdocs, and Master students to join the team**  -->
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [PhD Scholars](#phd-scholars), [Masters Students](#masters-students), [Alumni](#alumni), [Former Visitors and BTech/ MTech students](#former-visitors-and-btech-mtech-students).
+
 
 ## Staff
+<!-- This will contain Professors and PostDocs -->
 {% assign number_printed = 0 %}
 {% for member in site.data.staff %}
 
@@ -77,7 +78,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-
 ## Ph.D. Scholars
 <!-- ## PhD Students -->
 {% assign number_printed = 0 %}
@@ -90,16 +90,18 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <!-- <div class="team-photo-container"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" />
-  <!-- </div> -->
   <h4> <a href="{{ member.website }}" target="_blank">{{ member.name }}</a> </h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+  <!-- <h4>{{ member.name }}</h4> -->
+  <i>{{ member.info }}</i> <br>
+  {% if member.email %}
+  Email: <{{ member.email }}>
+  {% endif %}
   
   <div style="overflow: hidden">
-  <p>Research Area: {{ member.research }}</p>
-   
-
+  {% if member.project %}
+  <span>Project: {{ member.project }}</span>
+  {% endif %}
   </div>
 </div>
 
@@ -116,6 +118,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+
+<!-- ## Masters Students
+
+## Research Assistants
 
 ## Alumni
 
@@ -150,7 +156,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former Visitors and BTech MTech Students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -174,7 +180,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endfor %}
 </div>
 
-</div>
+</div> -->
 
 
 <!-- ## Administrative Support

@@ -8,8 +8,6 @@ permalink: /research/
 
 # Research
 
-Updating soon -- stay put. (Aug 11 2023)
+<a href="abc"> Adversarial ML for IoT: </a>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
-
+2. Adversarial ML for CAN Network:

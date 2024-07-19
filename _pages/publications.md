@@ -26,28 +26,48 @@ permalink: /publications/
 <div class="well">
   <pubtit>{{ publi.title }} </pubtit>
 
-  <span style="background-color: green; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;">{{ publi.tag }}</span>
+  <!-- <span style="background-color: green; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;">{{ publi.tag }}</span> -->
 
 <div style="clear: both;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 33%; float: left; margin-right: 15px;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 50%; float: left; margin-right: 15px;" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
 </div>
 
-  <p><strong>{{ publi.venue }}</strong></p>
+<div style="display: flex; gap: 10px;">
+<strong>{{ publi.venue }}</strong>
+{% if publi.award %}
+<span style="background-color: maroon; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;"><i class="fas fa-award" style="font-size: 12px;"></i> {{ publi.award }}</span>
+{% endif %}
+<span style="background-color: green; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;">{{ publi.tag }}</span>
+</div>
+
 
 <div style="display: flex; gap: 10px;">
+{% if publi.pdf %}
   <a href="{{ publi.pdf }}" target="_blank">
     <button class="btn btn-primary btn-lg" style="padding: 5px 10px; border-radius: 10px; background-color: black;">
       <i class="fas fa-file-pdf" style="font-size: 15px;"></i> PDF
     </button>
   </a>
+{% endif %}
 
-  <a href="{{ publi.project }}" target="_blank">
+{% if publi.website %}
+  <a href="{{ publi.website }}" target="_blank">
     <button class="btn btn-primary btn-lg" style="padding: 5px 10px; border-radius: 10px; background-color: black;">
-      <i class="fas fa-project-diagram" style="font-size: 15px;"></i> Project
+      <i class="fas fa-globe" style="font-size: 15px;"></i> Website
     </button>
   </a>
+{% endif %}
+
+{% if publi.code %}
+  <a href="{{ publi.code }}" target="_blank">
+    <button class="btn btn-primary btn-lg" style="padding: 5px 10px; border-radius: 10px; background-color: black;">
+      <i class="fab fa-github" style="font-size: 15px;"></i> Code
+    </button>
+  </a>
+{% endif %}
+
 </div>
 
 </div>
@@ -82,18 +102,34 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />
-  <strong>{{ publi.venue }}</strong> <span style="background-color: green; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;">{{ publi.tag }}</span>
-<div style="display: flex; gap: 10px; margin-top: -10px;">
+  <strong>{{ publi.venue }}</strong> {% if publi.award %}
+<span style="background-color: maroon; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;"><i class="fas fa-award" style="font-size: 12px;"></i> {{ publi.award }}</span>
+{% endif %} <span style="background-color: green; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;">{{ publi.tag }}</span>
+<div style="display: flex; gap: 10px; margin-top: -5px;">
+{% if publi.pdf %}
   <a href="{{ publi.pdf }}" target="_blank">
-    <button class="btn btn-primary btn-lg" style="padding: 2px 6px; border-radius: 6px; background-color: black; font-size: 12px;">
+    <button class="btn btn-primary btn-lg" style="padding: 2px 6px; border-radius: 6px; background-color: black;">
       <i class="fas fa-file-pdf" style="font-size: 12px;"></i> PDF
     </button>
   </a>
-  <a href="{{ publi.project }}" target="_blank">
-    <button class="btn btn-primary btn-lg" style="padding: 2px 6px; border-radius: 6px; background-color: black; font-size: 12px;">
-      <i class="fas fa-project-diagram" style="font-size: 12px;"></i> Project
+{% endif %}
+
+{% if publi.website %}
+  <a href="{{ publi.website }}" target="_blank">
+    <button class="btn btn-primary btn-lg" style="padding: 2px 6px; border-radius: 6px; background-color: black;">
+      <i class="fas fa-globe" style="font-size: 12px;"></i> Website
     </button>
   </a>
+{% endif %}
+
+{% if publi.code %}
+  <a href="{{ publi.code }}" target="_blank">
+    <button class="btn btn-primary btn-lg" style="padding: 2px 6px; border-radius: 6px; background-color: black;">
+      <i class="fab fa-github" style="font-size: 12px;"></i> Code
+    </button>
+  </a>
+{% endif %}
+
 </div>
 
 {% endfor %}

@@ -11,26 +11,29 @@
 
 - name: Arun Kumar Jindal
   photo: arun.jpg
-  info: School of IT, IIT Delhi (Research Scientist, TCS Research)
+  info: Part-time, Research Scientist, TCS Research
   email: arunkumarjindal@gmail.com
   website: 
-  research: Trustworthy ML for biometric systems
+  project: Trustworthy ML for Biometric Systems
   number_educ: 2
   education1: Masters, IIIT-Delhi 
   education2: Bachelors, Uttar Pradesh Technical University, Lucknow
 
 - name: Subrat Kumar Swain
   photo: subrat.jpeg
-  info: UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
-  email: mailofswainsubrat@gmail.com
+  info: "PMRF Fellow, UQ-IITD Research Academy (Co-supervisor: Prof. Dan Kim)"
+  email: s.swain@uq.edu.au
   website: https://swainsubrat.github.io/
+  project: Adversarial ML for IoT
   number_educ: 1
   education1: Bachelors, Veer Surendra Sai University of Technology (VSSUT) Odisha
 
 - name: Isha Pali 
   photo: isha.jpeg
-  info: UQ-IITD Research Academy (Co-supervisor - Prof. Dan Kim)
-  email: qi228047@iitd.ac.in, i.pali@uq.edu.au
+  info: "UQ-IITD Research Academy (Co-supervisor: Prof. Dan Kim)"
+  email: i.pali@uq.edu.au
+  website: linkedin.com/in/isha-pali-532a63129
+  project: Adversarial ML for CAN Network
   number_educ: 2
   education1: Masters, DSPM IIIT-NR (2022)
   education2: Bachelors, NIIT University Neemrana (2019)
@@ -39,6 +42,8 @@
   photo: sonali.jpeg
   info: School of IT, IIT Delhi
   email: sonalirout105@gmail.com
+  website: https://www.linkedin.com/in/sonali-rout-621925227/
+  project: Unmanned Air Vehicle (UAV) security
   number_educ: 2
   education1: Masters, National Institute of Technology, Rourkela 
   education2: Bachelors, Indira Gandhi Institute of Technology (IGIT), Sarang
@@ -48,6 +53,7 @@
   info: Department of CSE, IIT Delhi
   email: cs.priyansh@gmail.com
   website: priyanshs.me
+  project: Next Generation 5G
   number_educ: 2
   education1: Masters, Atal Bihari Vajpayee IIITM, Gwalior
   education2: Bachelors, Guru Gobind Singh Indraprastha University, Delhi
@@ -56,38 +62,45 @@
   photo: mehreen.jpg
   info: Department of CSE, IIT Delhi (Co-supervisor - Prof. Rijurekha Sen)
   email: 
+  website: 
+  project: 
   number_educ: 2
   education1: Masters,
   education2: Bachelors,
 
 - name: Narayan Ji Mishra 
   photo: narayan.jpg
-  info: 
-  email: nehah000@gmail.com
+  info: School of IT, IIT Delhi
+  email: 
+  website:
+  project:
   number_educ: 2
-  education1: Masters, IIT Delhi
-  education2: Bachelors, MDU Rohtak
+  education1: Masters,
+  education2: Bachelors,
 
 - name: Neha 
   photo: neha.jpg
-  info: 
+  info: TBO Fellow, Department of CSE, IIT Delhi
   email: nehah000@gmail.com
+  website:
+  project: Next Generation 5G
   number_educ: 2
   education1: Masters, IIT Delhi
   education2: Bachelors, MDU Rohtak
 
-- name: Avinash 
+- name: Avinash Jha
   photo: avinash.jpg
-  info: 
-  email: nehah000@gmail.com
+  info: Department of CSE, IIT Delhi
+  email: avinash.jha2493@gmail.com
+  website: https://www.linkedin.com/in/avinash-jha-70213476/
   number_educ: 2
-  education1: Masters, IIT Delhi
-  education2: Bachelors, MDU Rohtak
+  education1: Masters, BITS Pilani
+  education2: Bachelors, Army Institute of Technology, Pune
 
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="http://www.spring-iitd.github.io/vacancies">openings</a> for more info
-  # email: viresh [at] cse.iitd.ac.in
+  email:
   number_educ: 0
   education1:
   education2:
