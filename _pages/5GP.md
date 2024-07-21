@@ -3,7 +3,7 @@ title: "SPRING - Research"
 layout: textlay
 excerpt: "SPRING -- Research"
 sitemap: false
-permalink: /research/5GP/
+permalink: /research/5GP
 ---
 
 # Research
