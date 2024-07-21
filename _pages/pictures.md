@@ -14,8 +14,6 @@ Jump to: [IITD](#iitd)
 <!-- 
 #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
-
-#### Kripalani Lab
 <!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
 <img src="g2.JPEG" alt="kripalani lab" width="560" height="315">
 <!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
@@ -24,7 +22,7 @@ Jump to: [IITD](#iitd)
 
 
 #### Team Lunch/Dinner
-(Right-click *'view image'* to see a larger image.)
+<!-- (Right-click *'view image'* to see a larger image.) -->
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
