@@ -15,9 +15,9 @@ Jump to: [IITD](#iitd)
 #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
 
-#### Kripalani Lab:
+#### Kripalani Lab
 <!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
-<img src="spring-iitd/spring-iitd.github.io/images/g2.JPEG" alt="kripalani lab" width="560" height="315">
+<img src="g2.JPEG" alt="kripalani lab" width="560" height="315">
 <!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
 
 
