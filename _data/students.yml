@@ -59,21 +59,21 @@
   education2: Bachelors, Guru Gobind Singh Indraprastha University, Delhi
 
 - name: Mehreen Jabeen  
-  photo: mehreen.jpg
+  photo: mehreen.jpeg
   info: Department of CSE, IIT Delhi (Co-supervisor - Prof. Rijurekha Sen)
-  email: 
-  website: 
-  project: 
+  email: mehreen.154@gmail.com
+  website: linkedin.com/in/mehreen-jabeen-107819160
+  project: Trustworthy ML for Edge Devices
   number_educ: 2
   education1: Masters,
   education2: Bachelors,
 
 - name: Narayan Ji Mishra 
-  photo: narayan.jpg
+  photo: narayan.jpeg
   info: School of IT, IIT Delhi
-  email: 
-  website:
-  project:
+  email: narayanjmnnit@gmail.com
+  website: www.linkedin.com/in/narayan-ji-mishra-10b48222a
+  project: Biometric Security
   number_educ: 2
   education1: Masters,
   education2: Bachelors,
@@ -89,10 +89,11 @@
   education2: Bachelors, MDU Rohtak
 
 - name: Avinash Jha
-  photo: avinash.jpg
+  photo: avinash.jpeg
   info: Department of CSE, IIT Delhi
   email: avinash.jha2493@gmail.com
   website: https://www.linkedin.com/in/avinash-jha-70213476/
+  project: IDS for Edge Devices
   number_educ: 2
   education1: Masters, BITS Pilani
   education2: Bachelors, Army Institute of Technology, Pune

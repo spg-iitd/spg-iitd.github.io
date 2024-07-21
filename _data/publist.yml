@@ -1,5 +1,5 @@
 - title: "SpotOn: Adversarially Robust Keyword Spotting on Resource-Constrained IoT Platforms"
-  image:
+  image: spoton.jpeg
   description: IoT devices (e.g., voice assistants) that execute real-time speech commands are proliferating fast in our daily lives. In such a device, detecting the correct keyword spoken as a command triggers the supported function, and hence keyword spotting (KWS) using a machine learning (ML) model is the pivotal task in their functioning. However, KWS is vulnerable to adversarial machine learning (AML)-based attacks through which an adversary can craft an adversarial...
   authors: Mehreen Jabeen, Vireshwar Kumar, Rijurekha Sen
   venue: ACM AsiaCCS 2024
@@ -12,18 +12,33 @@
 
 - title: "SPAT: Semantic-Preserving Adversarial Transformation for Perceptually Similar Adversarial Examples"
   image: SPAT.png
-  description: Machine Learning~(ML) models are vulnerable to adversarial machine learning~(AML) attacks, which generate adversarial examples by adding well-crafted perturbations to the benign examples. If the perturbations are added without considering the semantic correctness, the attack can be easily detected. We introduce SPAT, a unified framework that transforms conventional AML attacks into semantic-preserving versions while maintaining a comparable attack success rate.
+  description: Machine Learning(ML) models are vulnerable to adversarial machine learning(AML) attacks, which generate adversarial examples by adding well-crafted perturbations to the benign examples. If the perturbations are added without considering the semantic correctness, the attack can be easily detected. We introduce SPAT, a unified framework that transforms conventional AML attacks into semantic-preserving versions while maintaining a comparable attack success rate.
   authors: Subrat Kumar Swain, Vireshwar Kumar, Dan Dongseong Kim, Guangdong Bai
   venue: ECAI 2023
   tag: CORE A
   code: https://github.com/swainsubrat/SPAT
-  award: Spotlight
+  award: 
   pdf: https://www.cse.iitd.ernet.in/~viresh/publication/2023-ecai-spat/2023-ecai-spat.pdf 
   website: https://swainsubrat.github.io/spat-project # page to show details of the project or demo.
   highlight: 1
 
+- title: "PANDA: Practical Adversarial Attacks Against Intrusion Detection Applications"
+  image: panda.png
+  description: While adversarial machine learning (AML) attacks have become prevalent in the computer vision (CV) domain, their applications in other domains, such as network intrusion detection systems (NIDS), remain limited. This gap stems from the lack of a well-defined input space in non-image domains,
+               hindering the generation of adversarial examples. Unlike CV problems, where the input space is the feature space, other
+               domains generally lack a precise inverse mapping from the feature space to the problem space. In this work, we propose
+               PANDA, a novel approach that bridges this gap and enables AML attacks against NIDS. 
+  authors: Subrat Kumar Swain, Vireshwar Kumar, Guangdong Bai, Dan Dongseong Kim
+  venue: DSN Disrupt 2024
+  tag: CORE A
+  code: https://github.com/spring-iitd/PANDA
+  award: 
+  pdf:
+  website:
+  highlight: 1
+
 - title: "Practical Attestation for Edge Devices Running Compute Heavy Machine Learning Applications"
-  image:
+  image: ismi.png
   description: Machine Learning (EdgeML) algorithms on edge devices facilitate safety-critical applications like building security management and smart city interventions. However, their wired/wireless connections with the Internet make such platforms vulnerable to attacks compromising the embedded software. In this paper, we present PracAttest, a practical runtime attestation framework for embedded devices running compute-heavy EdgeML applications. Unlike the conventional remote attestation...
   authors: Ismi Abidi, Vireshwar Kumar, Rijurekha Sen
   venue: ACSAC 2021

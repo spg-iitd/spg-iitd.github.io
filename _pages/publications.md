@@ -29,9 +29,14 @@ permalink: /publications/
   <!-- <span style="background-color: green; color: white; padding: 1px 4px; border-radius: 2px; font-size: 12px;">{{ publi.tag }}</span> -->
 
 <div style="clear: both;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 50%; float: left; margin-right: 15px;" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 50%; float: left; margin-right: 15px;" /> -->
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive pub-photo" />
+{% if publi.description.size > 500 %}
+  <p>{{ publi.description | slice: 0, 500 }}...</p>
+{% else %}
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
+{% endif %}
+<p><em>{{ publi.authors }}</em></p>
 </div>
 
 <div style="display: flex; gap: 10px;">
