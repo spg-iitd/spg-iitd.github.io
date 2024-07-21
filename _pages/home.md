@@ -68,7 +68,9 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
  <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) ** -->
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uqidar.jpg" style="width: 500px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iitd LOGO.png" style="width: 500px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uqidar.png" style="width: 500px">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uq LOGO.jpg" style="width: 500px">
 </figure>
 
 
