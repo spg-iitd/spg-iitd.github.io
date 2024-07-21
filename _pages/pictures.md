@@ -16,9 +16,9 @@ Jump to: [IITD](#iitd)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
 
 #### Kripalani Lab:
-<img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315">
+<!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
 <img src="g2.JPEG" alt="kripalani lab" width="560" height="315">
-<img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315">
+<!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
 
 
 
