@@ -17,7 +17,7 @@ Jump to: [IITD](#iitd)
 
 #### Kripalani Lab:
 <!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
-<img src="g2.JPEG" alt="kripalani lab" width="560" height="315">
+<img src="images/picpic/Gallery/g2.JPEG" alt="kripalani lab" width="560" height="315">
 <!-- <img src="path_to_your_image.jpg" alt="kripalani lab" width="560" height="315"> -->
 
 
