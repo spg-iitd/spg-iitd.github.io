@@ -1,0 +1,103 @@
+# - title:
+#   description:
+#   students:
+#   image:
+#   highlight: 1
+
+- title: "Bio-metric Security and Privacy"
+  description: Bio-metric security and privacy
+  students: Arun Kumar Jindal
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "Adversarial AI Attacks and Defenses in Intrusion Detection System for IoT"
+  description: To facilitate applications such as smart homes and smart manufacturing, energy-constrained devices 
+               are interconnected through bandwidth-constrained communication protocols to form the Internet of 
+               Things (IoT). Due to such constraints, the IoT networks fail to employ conventional security 
+               protocols. Hence, on one hand, the IoT devices are vulnerable to illegal device access and inference 
+               of sensitive information; on the other hand, their users are prone to spoofing attacks through 
+               which an attacker can feed malicious data to the user. One resource-efficient way to secure an 
+               IoT network is to deploy comprehensively trained intrusion detection systems (IDS). However, the 
+               existing IDS have been shown to be vulnerable against modern artificial intelligence (AI)-assisted 
+               attacks that exploit specific vulnerabilities of the IDS. 
+  students: Subrat Kumar Swain
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "Towards Securing Next Generation Cellular Network for IoT"
+  description: The fifth generation of cellular networks (5G) implements software-defined networking (SDN) 
+               and network function virtualisation (NFV) to provide scalability and flexibility, reduce 
+               costs, and decouple control and data planes. 5G cellular networks employ service-based 
+               architecture, which is native to the cloud and uses micro-services. It enables the creation 
+               of tailored services that cater to different deployment conditions, such as voice, video, 
+               e-health, smart city, and self-driving cars. With network slicing, the internet service 
+               provider can efficiently use spectrum and compute resources to provide the necessary quality 
+               of service based on the application. Network slicing security is a significant issue since a 
+               security threat in being a 5G enabler would imply jeopardy of the entire 5G system. With 
+               applications in safety-critical cyber-physical systems, even service degradation may lead 
+               to the loss of human life. 
+  students: Priyash Singh
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "Adversarial Cyber-Attacks and Defences for In-Vehicle Networks"
+  description: The main goal of this research project is to develop adversarial attacks and defences for in-vehicle 
+               networks. Machine Learning (ML) techniques (including deep learning techniques) have been applied 
+               to intrusion detection for in-vehicle networks. The main function of ML-based intrusion detection 
+               is to monitor, identify cyber attacks to in-vehicle networks, in particular, CAN bus. Adversarial 
+               attacks are critical security threats against deployed ML- based intrusion detection for in-vehicle 
+               networks. In this research, existing adversarial attacks will be tested against offline and deployed 
+               ML-based intrusion detection for in-vehicle networks and also novel adversarial attacks will be 
+               developed to evaluate the robustness of ML-based intrusion detection. In addition, defences against 
+               adversarial attacks will be developed against adversarial attacks and their effectiveness will be 
+               assessed via multiple metrics.
+
+
+  students: Isha Pali
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "Towards Securing 5G Cellular Network from Fake Base Stations"
+  description: The research focuses on the problem of fake base stations within 5G cellular networks. 
+               Exploiting the cellular device's tendency to connect to the strongest signal, adversaries 
+               can set up rogue base stations with higher signal strengths, attracting nearby devices. These 
+               fake base stations facilitate attacks like denial of service and relay attacks. This 
+               research aims to detect and prevent such impersonation, with a particular emphasis on 
+               authentication relay attacks that manipulate device location information.
+  students: Neha
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "UAV Security"
+  description: UAV security. 
+  students: Sonali Rout
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "Lightweight Intrusion Detection System for Resource-constraint End-points"
+  description: Lightweight Intrusion Detection System for Resource Constrained Endpoints focussing on three 
+               dimensions of improvements - Optimal IDS, Distributed IDS and Filtered IDS. Optimal IDS focusses 
+               on making intrusion detection engine optimal i.e. choosing better algorithms having resource 
+               footprint minimized. Distributed IDS focusses on sharing engine load to multiple nodes. Filtered 
+               IDS focusses on processing a subset of activities by taking intelligent decisions like sampling 
+               or monitoring only specific type of events on an endpoint depending on workload running. All the 
+               three improvement areas will quantify the goodness of the IDS in efficacy, latency and resource 
+               usage. 
+  students: Avinash Jha
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "Bio-metric Security"
+  description: Bio-metric security. 
+  students: Narayan Ji Mishra
+  image: spoton.jpeg
+  highlight: 1
+
+- title: "Securing Machine Learning to Develop Secure, Reliable, and Privacy-preserving Edge-AI Technology"
+  description: This research lies at the intersection of Systems and Machine Learning, focusing on developing 
+               secure, reliable, and privacy-preserving edge AI technologies. The objective is to safeguard 
+               Machine Learning applications on resource-constrained edge devices from malware, adversarial 
+               attacks, and runtime vulnerabilities, ensuring reliable inferences in high-stakes environments.
+  students: Mehreen Jabeen
+  image: spoton.jpeg
+  highlight: 1
