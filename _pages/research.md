@@ -8,7 +8,27 @@ permalink: /research/
 
 # Research
 
-{% assign number_printed = 0 %}
+<div class="row">
+{% for data in site.data.research %}
+<div class="col-sm-12 clearfix">
+<div class="well">
+<div class="row">
+<div class="col-sm-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ data.image }}" class="img-responsive res-photo" alt="{{ data.title }}" />
+</div>
+<div class="col-sm-8">
+<pubtit>{{ data.title }} </pubtit>
+<div style="clear: both;">
+  <p>{{ data.description }}</p>
+  <p>Members: <em>{{ data.students }}</em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+{% endfor %}
+
+<!-- {% assign number_printed = 0 %}
 {% for data in site.data.research %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -41,4 +61,4 @@ permalink: /research/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
