@@ -117,3 +117,15 @@ firstp {
 	float: left; /* Align with the text */
 	margin-right: 15px; /* Space between the image and the text */
 }
+
+.res-photo {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 15px;
+}
+
+.pubtit {
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-bottom: 10px;
+}
