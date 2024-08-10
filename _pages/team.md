@@ -158,6 +158,8 @@ Jump to [PhD Scholars](#phd-scholars), [Masters Students](#masters-students), [A
 </div>
 {% endif %}
 
+#### We have collaborations with various international research groups, e.g. the security group at The University of Queensland.
+
 <!-- ## Masters Students
 
 ## Research Assistants
